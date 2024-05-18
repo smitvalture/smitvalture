@@ -32,13 +32,14 @@ const Hero = () => {
             Hi, I&apos;m Smit, a React Developer based in India.
           </p>
 
-          <a href="#about">
+          {/* <a href="#about" className='md:mt-10'> */}
             <MagicButton 
               title='Show my work'
               icon={<FaLocationArrow />}
               position='right'
+              path='#about'
             />
-          </a>
+          {/* </a> */}
         </div>
       </div>
     </div>
