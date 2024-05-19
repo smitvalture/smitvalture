@@ -1,6 +1,7 @@
 {
   "name": "valture-portfolio",
   "version": "0.1.0",
+  "description": "My portfolio as a React Developer",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,6 +9,7 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "author": "Smitkumar S Valture",
   "dependencies": {
     "clsx": "^2.1.1",
     "framer-motion": "^11.2.4",
