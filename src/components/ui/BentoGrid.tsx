@@ -1,5 +1,5 @@
 "use client";
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import { IoCopyOutline } from "react-icons/io5";
 
 // Also install this npm i --save-dev @types/react-lottie
@@ -8,7 +8,7 @@ import Lottie from "react-lottie";
 
 import { BackgroundGradientAnimation } from "./GradientBg";
 import { GlobeDemo } from "./GridGlobe";
-// import animationData from "@/data/confetti.json";
+import animationData from "@/constants/confetti.json";
 import { cn } from "@/utils/cn";
 import MagicButton from "./MagicButton";
 
@@ -57,15 +57,6 @@ export const BentoGridItem = ({
 
   const [copied, setCopied] = useState(false);
 
-  const defaultOptions = {
-    loop: copied,
-    autoplay: copied,
-    // animationData: animationData,
-    rendererSettings: {
-      preserveAspectRatio: "xMidYMid slice",
-    },
-  };
-
   const handleCopy = () => {
     const text = "smitvalture@gmail.com";
     navigator.clipboard.writeText(text);
@@ -74,6 +65,27 @@ export const BentoGridItem = ({
       setCopied(false);
     }, 4000);
   };
+
+  const renderLottie = useMemo(() => {
+    if (!copied) return null; // Only render Lottie if copied is true
+
+    const defaultOptions = {
+      loop: false,
+      autoplay: true,
+      animationData: animationData,
+      rendererSettings: {
+        preserveAspectRatio: "xMidYMid slice",
+      },
+    };
+
+    return (
+      <Lottie
+        options={defaultOptions}
+        height={200}
+        width={400}
+      />
+    );
+  }, [copied]);
 
   return (
     <div
@@ -167,6 +179,9 @@ export const BentoGridItem = ({
                 className={`absolute -bottom-5 right-0 ${copied ? "block" : "block"
                   }`}
               >
+                {/* <img src="/confetti.gif" alt="confetti" /> */}
+                {/* <Lottie options={defaultOptions} height={200} width={400} /> */}
+                {renderLottie}
               </div>
 
               <MagicButton
@@ -175,6 +190,7 @@ export const BentoGridItem = ({
                 position="left"
                 handleClick={handleCopy}
                 otherClasses="!bg-[#161A31]"
+                className={`${copied ? "p-[3px]" : ""}`}
               />
             </div>
           )}
