@@ -90,7 +90,7 @@ export const ProductItem = ({
   src?: string;
 }) => {
   return (
-    <Link href={href} className="flex space-x-2">
+    <Link href={href} target="_blank" className="flex space-x-2">
       {src && (
         <Image
           src={src}

@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import { HoveredLink, Menu, MenuItem, MenuLink, ProductItem } from "./ui/navbar-menu";
 import { cn } from "@/utils/cn";
 import { AnimatePresence, useMotionValueEvent, useScroll, motion } from "framer-motion";
+import { images } from "@/constants/images";
 
 export function NavbarDemo() {
   return (
@@ -53,9 +54,27 @@ export function Navbar({ className }: { className?: string }) {
             <MenuItem setActive={setActive} active={active} item="Projects">
               <div className="  text-sm grid grid-cols-2 gap-10 p-4">
                 <ProductItem
+                  title="BeeDee"
+                  href="https://beedee.com"
+                  src={images.p1.src}
+                  description="BeeDee is a free dating app made by BDSMTest to connect you to compatible people in your area."
+                />
+                <ProductItem
                   title="Algochurn"
                   href="https://algochurn.com"
-                  // src="https://assets.aceternity.com/demos/algochurn.webp"
+                  src={images.p1.src}
+                  description="Prepare for tech interviews like never before."
+                />
+                <ProductItem
+                  title="Algochurn"
+                  href="https://algochurn.com"
+                  src={images.p1.src}
+                  description="Prepare for tech interviews like never before."
+                />
+                <ProductItem
+                  title="Algochurn"
+                  href="https://algochurn.com"
+                  src={images.p1.src}
                   description="Prepare for tech interviews like never before."
                 />
               </div>
