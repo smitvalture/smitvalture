@@ -1,3 +1,4 @@
+import { images } from './images'
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
@@ -13,7 +14,7 @@ export const gridItems = [
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
-    img: "/b1.svg",
+    img: images?.b1?.src,
     spareImg: "",
   },
   {
@@ -43,8 +44,8 @@ export const gridItems = [
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
     titleClassName: "justify-start",
-    img: "/grid.svg",
-    spareImg: "/b4.svg",
+    img: images?.grid?.src,
+    spareImg: images?.b4?.src,
   },
 
   {
@@ -54,8 +55,8 @@ export const gridItems = [
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
-    img: "/b5.svg",
-    spareImg: "/grid.svg",
+    img: images?.b5?.src,
+    spareImg: images?.grid?.src,
   },
   {
     id: 6,
@@ -74,7 +75,7 @@ export const projects = [
     id: 1,
     title: "3D Solar System Planets to Explore",
     des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
+    img: images?.p1?.src,
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://github.com/adrianhajdin?tab=repositories",
   },
@@ -204,14 +205,14 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
-    img: "/git.svg",
+    img: images?.git?.src,
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: images?.twit?.src,
   },
   {
     id: 3,
-    img: "/link.svg",
+    img: images?.link?.src,
   },
 ];

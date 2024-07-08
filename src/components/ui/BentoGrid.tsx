@@ -52,6 +52,7 @@ export const BentoGridItem = ({
   titleClassName?: string;
   spareImg?: string;
 }) => {
+  console.log("🚀 ~ img:", img)
   const leftLists = [
     { name: "ReactJS", url: "https://reactjs.org/" },
     { name: "NextJS", url: "https://nextjs.org/" },
