@@ -5,3 +5,25 @@
     <img alt="https://smitvalture.netlify.app" src="./public/README/img/dino.gif" />
   </picture>
 </a>
+
+
+# 💫 About Me
+Hi there! I'm Smit Valture, a passionate React developer with 2 years of experience building dynamic and responsive web and mobile applications. I specialize in crafting efficient, scalable solutions using React, React Native, and modern JavaScript tools, with a knack for integrating Firebase for real-time features and authentication. I enjoy optimizing user experiences and writing clean, maintainable code.
+
+# 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+# 📊 GitHub Stats
+![Smit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smitvalture&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smitvalture&layout=compact&theme=radical)
+
+---
+![Visitor Count](https://visitcount.itsvg.in/api?id=smitvalture&icon=0&color=0)
