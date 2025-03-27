@@ -6,6 +6,8 @@
   </picture>
 </a>
 
+---
+
 # 💫 About Me
 Hi there! I'm Smit Valture, a passionate React developer focused on building dynamic and responsive web and mobile applications. I specialize in creating efficient, scalable solutions using React, React Native, and modern JavaScript tools, with a knack for integrating Firebase for real-time features and authentication. I’m dedicated to optimizing user experiences and writing clean, maintainable code that stands the test of time.
 
@@ -25,5 +27,3 @@ Hi there! I'm Smit Valture, a passionate React developer focused on building dyn
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smitvalture&layout=compact&theme=radical)
 
 ---
-## Visitor Count
-![Visitor Count](https://visitor-badge.laobi.ink/badge?page_id=smitvalture.smitvalture&format=true)
