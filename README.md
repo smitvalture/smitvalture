@@ -25,7 +25,9 @@ Hi there! I'm Smit Valture, a passionate React developer focused on building dyn
 </div>
 
 # 📊 GitHub Stats
-![Smit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smitvalture&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smitvalture&layout=compact&theme=radical)
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=smitvalture&show_icons=true&theme=radical" alt="Smit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitvalture&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
