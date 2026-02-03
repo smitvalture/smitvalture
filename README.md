@@ -17,16 +17,6 @@ I build **web and mobile apps** with React, React Native, and TypeScript. I like
 
 ---
 
-### 📌 Featured work
-
-<div align="center">
-
-*Pinned repositories are shown below on my profile — or browse [all repos](https://github.com/smitvalture?tab=repositories).*
-
-</div>
-
----
-
 ### 🛠 Tech
 
 <div align="center">
