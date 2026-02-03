@@ -74,13 +74,6 @@ I build **web and mobile apps** with React, React Native, and TypeScript. I like
 
 ---
 
-### 📈 Coding time (WakaTime)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ### 🔗 Connect
 
 <div align="center">
