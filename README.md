@@ -17,6 +17,16 @@ I build **web and mobile apps** with React, React Native, and TypeScript. I like
 
 ---
 
+### 📌 Featured work
+
+<div align="center">
+
+*Pinned repositories are shown below on my profile — or browse [all repos](https://github.com/smitvalture?tab=repositories).*
+
+</div>
+
+---
+
 ### 🛠 Tech
 
 <div align="center">
@@ -41,6 +51,18 @@ I build **web and mobile apps** with React, React Native, and TypeScript. I like
 
 ---
 
+### 🎵 Now playing
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=true&background_color=0d1117&bar_color=1db954&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID)
+
+<sub>*Get your Spotify uid from [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) and replace `YOUR_SPOTIFY_UID` above.*</sub>
+
+</div>
+
+---
+
 ### 📊 GitHub
 
 <div align="center">
@@ -52,6 +74,13 @@ I build **web and mobile apps** with React, React Native, and TypeScript. I like
 
 ---
 
+### 📈 Coding time (WakaTime)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 🔗 Connect
 
 <div align="center">
@@ -59,6 +88,7 @@ I build **web and mobile apps** with React, React Native, and TypeScript. I like
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=link&logoColor=white)](https://smitvalture.netlify.app)
 [![Smiridhdhi InfoTech](https://img.shields.io/badge/Freelancing-Smiridhdhi_InfoTech-6366F1?style=flat-square&logo=google-chrome&logoColor=white)](https://www.smiridhdhi.in/)
 [![Contact](https://img.shields.io/badge/Contact-Get_in_touch-10B981?style=flat-square&logo=maildotru&logoColor=white)](https://www.smiridhdhi.in/contact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit-valture)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/smitvalture)
 
 </div>
