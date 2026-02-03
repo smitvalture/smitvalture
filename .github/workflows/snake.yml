@@ -2,6 +2,9 @@
 name: Update snake
 
 on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/snake.yml']
   schedule:
     - cron: "0 0 * * *"   # daily at midnight UTC
   workflow_dispatch:
@@ -15,8 +18,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Ensure assets dir exists
+        run: mkdir -p assets
+
       - name: Generate snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: smitvalture
           outputs: |
