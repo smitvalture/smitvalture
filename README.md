@@ -53,14 +53,13 @@ Hi, I'm **Smit Valture**. I build dynamic, responsive web and mobile apps with *
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=smitvalture&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitvalture&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" height="165" />
-
-<img src="https://streak-stats.demolab.com/?user=smitvalture&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+[![GitHub followers](https://img.shields.io/github/followers/smitvalture?style=for-the-badge&logo=github&labelColor=181717&color=58a6ff)](https://github.com/smitvalture?tab=followers)
+[![GitHub user stars](https://img.shields.io/github/users/stars/smitvalture?style=for-the-badge&logo=github&labelColor=181717&color=f0ad4e)](https://github.com/smitvalture?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=smitvalture&style=for-the-badge&color=58a6ff&label=profile+views)](https://github.com/smitvalture)
 
 </div>
 
