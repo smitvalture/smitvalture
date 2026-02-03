@@ -55,9 +55,9 @@ I build **web and mobile apps** with React, React Native, and TypeScript. I like
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=true&background_color=0d1117&bar_color=1db954&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31oijfcta7zm4hcwgqluvffnidva)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31oijfcta7zm4hcwgqluvffnidva&cover_image=true&theme=default&show_offline=true&background_color=0d1117&bar_color=1db954&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31oijfcta7zm4hcwgqluvffnidva)
 
-<sub>*Get your Spotify uid from [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) and replace `YOUR_SPOTIFY_UID` above.*</sub>
+<!-- <sub>*Connect via [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) and replace `YOUR_SPOTIFY_UID` with the id from the generated snippet.*</sub> -->
 
 </div>
 
